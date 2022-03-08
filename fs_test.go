@@ -31,6 +31,7 @@ func TestAsciiArt(t *testing.T) {
 		"hello There 1 to 2!",
 		"MaD3IrA&LiSboN",
 		"1a\"#FdwHywR&/()=",
+		"{|}~",
 		"[\\]^_ 'a",
 		"RGB",
 		":;<=>?@",
